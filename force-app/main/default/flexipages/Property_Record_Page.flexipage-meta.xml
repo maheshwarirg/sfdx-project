@@ -21,10 +21,25 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
+<<<<<<< HEAD
                     <name>animations</name>
                     <value>true</value>
                 </componentInstanceProperties>
                 <componentName>PictureGalleryCard</componentName>
+=======
+                    <name>latField</name>
+                    <value>Location__Latitude__s</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>longField</name>
+                    <value>Location__Longitude__s</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>titleField</name>
+                    <value>Name</value>
+                </componentInstanceProperties>
+                <componentName>RecordMap</componentName>
+>>>>>>> 9a82f188291089215bb8215891da318ec7f03b33
             </componentInstance>
         </itemInstances>
         <mode>Replace</mode>
